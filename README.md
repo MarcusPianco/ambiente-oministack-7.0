@@ -152,7 +152,7 @@ Material Icon Theme
 `
 2) Clique em install 
 Como na imagem abaixo:
-![](/images/installicontheme.png.png)
+![](/images/installicontheme.png)
 
 Pronto o estilo de ícones já está instalado :) !!! Caso o tema do seu vs code ainda não tenha mudado, clique nas opções seguintes (no meu superior do vs code)
 
