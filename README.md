@@ -11,13 +11,15 @@ Este repositório tem o propósito de ajudar na instalação de biblioteças e c
 https://nodejs.org/en/download/package-manager/
  
 2) Escolha a opção macOs
- Existem dua opções via Bash usando o comando:
+
+ Existem duas opções:
+ ### Via Bash inserindo o comando abaixo no terminal:
+ 
  ``
  curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
  ``
-
-
-Ou usando HomeBrew
+ 
+### Ou usando HomeBrew
 
 - Instale o HomeBrew
 
@@ -26,11 +28,6 @@ Abra o terminal e execute o seguinte comando:
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ``` 
 
-Teste se o homebrew foi instalado corretamente digitando no terminal o comando:
-
-```
-brew -v 
-```
 Teste se o homebrew foi instalado corretamente digitando no terminal o comando: 
 ```
 brew -v 
