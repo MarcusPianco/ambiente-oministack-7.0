@@ -123,7 +123,7 @@ Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1
 
 # Instalando o VS Code
 
-1) Clique em aqui [Download VS Code](https://code.visualstudio.com/Download)
+1) Clique aqui [Download VS Code](https://code.visualstudio.com/Download)
 
 2) Escolha seu sistema operacional e é só fazer o download. :) !!!
 
