@@ -100,14 +100,14 @@ Pronto o nodeJS já está instalado :)!!!!
 
 ## macOS
 
-Basta inserir o seguinte comando no terminal(o homebrew deve estar instalado)
+Execute o seguinte comando no terminal(o homebrew deve estar instalado)
 ```sh
 brew install yarn --without-node
 ```
 Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1.15.2` ou algo similar 
 ## Linux
 
-Basta executar o seguinte comando no terminal:
+Execute o seguinte comando no terminal:
 ```sh
 curl -o- -L https://yarnpkg.com/install.sh | bash
 ```
@@ -134,7 +134,7 @@ Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1
 
 ## Instalando Tema Dracula
 
-No campo Busca digite `dracula` e clique em install como na imagem abbaixo:
+2) No campo busca digite `dracula` e clique em install como na imagem abbaixo:
 ![](/images/Instalandotemadracula.png)
 
 Pronto o tema já está instalado :) !!! Caso o tema do seu vs code ainda não tenha mudado, clique nas opções seguintes (no meu superior do vs code)
@@ -143,4 +143,25 @@ Pronto o tema já está instalado :) !!! Caso o tema do seu vs code ainda não t
 Code->Preferences->Color Theme-> Dracula
 ```
 A escolha da opção do tema pode variar de acordo com o seu sistema opracional, mas o processo será o mesmo( tenta localizar preferencias e logo em seguida tema :) )
+
+## Modificando estilo dos Ícones 
+
+1) novamente no campo de pesquisa em `extensions` ou `extensões` digite: `material` e busque a extensão 
+`
+Material Icon Theme
+`
+2) Clique em install 
+Como na imagem abaixo:
+![](/images/installicontheme.png.png)
+
+Pronto o estilo de ícones já está instalado :) !!! Caso o tema do seu vs code ainda não tenha mudado, clique nas opções seguintes (no meu superior do vs code)
+
+```
+Code->Preferences->File Icon Theme->Material
+```
+A escolha da opção de mudança do estilo dos ícones pode variar de acordo com o seu sistema opracional, mas o processo será o mesmo( tenta localizar preferencias e logo em seguida File Icon Theme :) )
+
+
+
+
 
