@@ -129,5 +129,18 @@ Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1
 
 # Instalando as Dependências no Vs Code
 
+1) Clique em Extensions no VS Code 
+![](/images/clicarextensionvscode.png)
 
+## Instalando Tema Dracula
+
+No campo Busca digite `dracula` e clique em install como na imagem abbaixo:
+![](/images/Instalandotemadracula.png)
+
+Pronto o tema já está instalado :) !!! Caso o tema do seu vs code ainda não tenha mudado, clique nas opções seguintes (no meu superior do vs code)
+
+```
+Code->Preferences->Color Theme-> Dracula
+```
+A escolha da opção do tema pode variar de acordo com o seu sistema opracional, mas o processo será o mesmo( tenta localizar preferencias e logo em seguida tema :) )
 
