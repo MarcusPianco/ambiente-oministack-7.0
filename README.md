@@ -179,7 +179,7 @@ Pronto as extensões da rocket seat já estão instaladas :) !!!
 
 ### macOS e Linux
 
-1) Bas baixar o Fira Code no link: ![FiraCode](https://github.com/tonsky/FiraCode/releases/download/1.206/FiraCode_1.206.zip)
+1) Bas baixar o Fira Code no link: [FiraCode](https://github.com/tonsky/FiraCode/releases/download/1.206/FiraCode_1.206.zip)
 
 2) Descompactar ir na pasta `/ttf/` clicar nas fontes e clicar em `Instalar Fonte` (no macos, no linux deverá ser similar),
 faça isso para todos os arquivos .ttf na pasta.
@@ -196,6 +196,14 @@ Basta seguir esse post muito explicativo sobre como instalar o fira code font no
 
 https://imasters.com.br/desenvolvimento/fira-code-no-vscode
 
+## Bonus
+
+Para configurar o terminal para o tema dracula, use o tutorial da Rocketseat no blog oficial:
+
+https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
+
+
+Obrigado Galera da Rocketseat !!!!:) 
 
 
 
