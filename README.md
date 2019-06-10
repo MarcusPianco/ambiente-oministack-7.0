@@ -51,6 +51,31 @@ Pronto, o Node já estará instalado no mac :)
 
 ## Linux
 
+1) Basta Executar os seguintes comandos no terminal:
+
+**Node.js v10.x**:
+
+```sh
+# Usando Ubuntu
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Usando Debian, como root
+curl -sL https://deb.nodesource.com/setup_10.x | bash -
+apt-get install -y nodejs
+```
+
+Pronto o node já está instalado!!!! :). Para testar execute noterminal o seguinte comando:
+
+```sh
+node -v
+```
+deverá aparecer a seguinte linha logo abaixo do comando:
+`
+v10.16.0
+`
+
+
 
 ## Windows
 
