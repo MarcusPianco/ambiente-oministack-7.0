@@ -202,6 +202,9 @@ Para configurar o terminal para o tema dracula, use o tutorial da Rocketseat no 
 
 https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
 
+### Material para configuração Ambiente React Native 
+
+https://docs.rocketseat.dev/ambiente-react-native/introducao
 
 Obrigado Galera da Rocketseat !!!!:) 
 
