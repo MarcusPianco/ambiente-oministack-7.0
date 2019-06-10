@@ -2,7 +2,7 @@
 
 Este repositório tem o propósito de ajudar na instalação de biblioteças e configurações necessárias para o desenvolvimento de aplicações na semana oministack 7.0 da rocketseat, este repositório não tem qualquer vínculo não sendo atrelado ao curso, foi apenas criado para ajudar alguns devs a instalar o que é preciso :).
 
-# Configurando o nodeJS versão LTS
+# Instalndo o nodeJS versão LTS usando package manager
 
 ## macOs
 
@@ -75,7 +75,59 @@ deverá aparecer a seguinte linha logo abaixo do comando:
 v10.16.0
 `
 
-
-
 ## Windows
+
+###  Instalando o Chocolatey
+
+1) Abra o powershell ou o cmd (como administrador)
+
+2) Insira o seguinte comando no cmd ou powershell,como administrador:
+```sh
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+```
+
+Após instalar o  Chocolatey execute o seguinte comando no cmd ou powershell, como administrador.
+
+```sh
+cinst nodejs.install
+```
+
+O comando acima deverá instalar tanto o nodeJS quanto o npm(node package manager)
+
+Pronto o nodeJS já está instalado :)!!!!
+
+# Instalando o Yarn 
+
+## macOS
+
+Basta inserir o seguinte comando no terminal(o homebrew deve estar instalado)
+```sh
+brew install yarn --without-node
+```
+Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1.15.2` ou algo similar 
+## Linux
+
+Basta executar o seguinte comando no terminal:
+```sh
+curl -o- -L https://yarnpkg.com/install.sh | bash
+```
+Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1.15.2` ou algo similar 
+
+## Windos
+
+Basta inserir o seguinte comando no cmd ou powershell, como administrador(o Chocolatey deve estar instalado)
+```sh
+choco install yarn
+```
+Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1.15.2` ou algo similar 
+
+# Instalando o VS Code
+
+1) Clique em aqui [Download VS Code](https://code.visualstudio.com/Download)
+
+2) Escolha seu sistema operacional e é só fazer o download. :) !!!
+
+# Instalando as Dependências no Vs Code
+
+
 
