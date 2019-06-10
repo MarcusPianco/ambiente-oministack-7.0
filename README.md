@@ -196,7 +196,7 @@ Basta seguir esse post muito explicativo sobre como instalar o fira code font no
 
 https://imasters.com.br/desenvolvimento/fira-code-no-vscode
 
-## Bonus
+## Bônus
 
 Para configurar o terminal para o tema dracula, use o tutorial da Rocketseat no blog oficial:
 
