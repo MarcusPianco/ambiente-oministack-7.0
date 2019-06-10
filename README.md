@@ -163,5 +163,18 @@ A escolha da opção de mudança do estilo dos ícones pode variar de acordo com
 
 
 
+## Instalando Extensões da Rocketseat
+
+1) novamente no campo de pesquisa em `extensions` ou `extensões` digite: `rocketseat`, aparecerão duas extensões, bas clicar em install como nas imagens abaixo:
+
+2) Extensão Rocketseat ReactJS 
+![](/images/extensionrocketseat.png)
+
+3)Rocketseat React Native
+![](/images/extensionrocketseat2.png)
+
+Pronto as extensões da rocket seat já estão instaladas :) !!!
+
+
 
 
