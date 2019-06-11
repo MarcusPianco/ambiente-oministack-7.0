@@ -113,7 +113,7 @@ curl -o- -L https://yarnpkg.com/install.sh | bash
 ```
 Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1.15.2` ou algo similar 
 
-## Windos
+## Windows
 
 Basta inserir o seguinte comando no cmd ou powershell, como administrador(o Chocolatey deve estar instalado)
 ```sh
