@@ -81,7 +81,7 @@ v10.16.0
 
 1) Abra o powershell ou o cmd (como administrador)
 
-2) Insira o seguinte comando no cmd ou powershell,como administrador:
+2) Insira o seguinte comando no cmd ou powershell, como administrador:
 ```sh
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 ```
@@ -165,7 +165,7 @@ A escolha da opção de mudança do estilo dos ícones pode variar de acordo com
 
 ## Instalando Extensões da Rocketseat
 
-1) novamente no campo de pesquisa em `extensions` ou `extensões` digite: `rocketseat`, aparecerão duas extensões, bas clicar em install como nas imagens abaixo:
+1) Novamente no campo de pesquisa em `extensions` ou `extensões` digite: `rocketseat`, aparecerão duas extensões, basta clicar em install como nas imagens abaixo:
 
 2) Extensão Rocketseat ReactJS 
 ![](/images/extensionrocketseat.png)
@@ -173,7 +173,7 @@ A escolha da opção de mudança do estilo dos ícones pode variar de acordo com
 3) Rocketseat React Native
 ![](/images/extensionrocketseat2.png)
 
-Pronto as extensões da rocket seat já estão instaladas :) !!!
+Pronto as extensões da Rocketseat já estão instaladas :) !!!
 
 ## Instalando FiraCode no VS Code
 
