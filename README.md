@@ -134,7 +134,7 @@ Para testar se tudo deu certo execute o comando `yarn -v` e deverá aparecer: `1
 
 ## Instalando Tema Dracula
 
-2) No campo busca digite `dracula` e clique em install como na imagem abbaixo:
+2) No campo busca digite `dracula` e clique em install como na imagem abaixo:
 ![](/images/Instalandotemadracula.png)
 
 Pronto o tema já está instalado :) !!! Caso o tema do seu vs code ainda não tenha mudado, clique nas opções seguintes (no meu superior do vs code)
@@ -142,11 +142,11 @@ Pronto o tema já está instalado :) !!! Caso o tema do seu vs code ainda não t
 ```
 Code->Preferences->Color Theme-> Dracula
 ```
-A escolha da opção do tema pode variar de acordo com o seu sistema opracional, mas o processo será o mesmo( tenta localizar preferencias e logo em seguida tema :) )
+A escolha da opção do tema pode variar de acordo com o seu sistema operacional, mas o processo será o mesmo( tenta localizar preferencias e logo em seguida tema :) )
 
 ## Modificando estilo dos Ícones 
 
-1) novamente no campo de pesquisa em `extensions` ou `extensões` digite: `material` e busque a extensão 
+1) Novamente no campo de pesquisa em `extensions` ou `extensões` digite: `material` e busque a extensão 
 `
 Material Icon Theme
 `
@@ -179,10 +179,9 @@ Pronto as extensões da Rocketseat já estão instaladas :) !!!
 
 ### macOS e Linux
 
-1) Bas baixar o Fira Code no link: [FiraCode](https://github.com/tonsky/FiraCode/releases/download/1.206/FiraCode_1.206.zip)
+1) Baixar o Fira Code no link: [FiraCode](https://github.com/tonsky/FiraCode/releases/download/1.206/FiraCode_1.206.zip)
 
-2) Descompactar ir na pasta `/ttf/` clicar nas fontes e clicar em `Instalar Fonte` (no macos, no linux deverá ser similar),
-faça isso para todos os arquivos .ttf na pasta.
+2) Descompactar, ir na pasta `/ttf/`, clicar nas fontes e clicar em `Instalar Fonte` (no macos, no linux deverá ser similar). Faça isso para todos os arquivos .ttf na pasta.
 
 3) Pressione as teclas command+shift+p no macOS  (no linux ctrl+shift+p) e digite `settings` clique na opção `Open Settings (JSON)`
 e adicione as seguintes linhas dentro do arquivo settings.json:
